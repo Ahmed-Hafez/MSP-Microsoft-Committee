@@ -1,0 +1,7 @@
+C:\Users\Ahmed\Desktop\Intro_To_CSharp\Intro_To_CSharp\bin\Debug\Intro_To_CSharp.exe.config
+C:\Users\Ahmed\Desktop\Intro_To_CSharp\Intro_To_CSharp\bin\Debug\Intro_To_CSharp.exe
+C:\Users\Ahmed\Desktop\Intro_To_CSharp\Intro_To_CSharp\bin\Debug\Intro_To_CSharp.pdb
+C:\Users\Ahmed\Desktop\Intro_To_CSharp\Intro_To_CSharp\obj\Debug\Intro_To_CSharp.csprojAssemblyReference.cache
+C:\Users\Ahmed\Desktop\Intro_To_CSharp\Intro_To_CSharp\obj\Debug\Intro_To_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Intro_To_CSharp\Intro_To_CSharp\obj\Debug\Intro_To_CSharp.exe
+C:\Users\Ahmed\Desktop\Intro_To_CSharp\Intro_To_CSharp\obj\Debug\Intro_To_CSharp.pdb
