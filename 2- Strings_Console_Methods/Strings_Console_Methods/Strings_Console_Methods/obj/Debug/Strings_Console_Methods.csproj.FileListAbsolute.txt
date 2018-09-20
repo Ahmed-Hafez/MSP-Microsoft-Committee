@@ -1,0 +1,7 @@
+F:\C# projects\Strings_Console_Methods\Strings_Console_Methods\bin\Debug\Strings_Console_Methods.exe.config
+F:\C# projects\Strings_Console_Methods\Strings_Console_Methods\bin\Debug\Strings_Console_Methods.exe
+F:\C# projects\Strings_Console_Methods\Strings_Console_Methods\bin\Debug\Strings_Console_Methods.pdb
+F:\C# projects\Strings_Console_Methods\Strings_Console_Methods\obj\Debug\Strings_Console_Methods.csprojAssemblyReference.cache
+F:\C# projects\Strings_Console_Methods\Strings_Console_Methods\obj\Debug\Strings_Console_Methods.csproj.CoreCompileInputs.cache
+F:\C# projects\Strings_Console_Methods\Strings_Console_Methods\obj\Debug\Strings_Console_Methods.exe
+F:\C# projects\Strings_Console_Methods\Strings_Console_Methods\obj\Debug\Strings_Console_Methods.pdb
